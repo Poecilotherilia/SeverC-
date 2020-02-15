@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sever/1.0.0": {
+        "dependencies": {
+          "protobuf-net": "2.0.0.668"
+        },
+        "runtime": {
+          "Sever.dll": {}
+        }
+      },
+      "protobuf-net/2.0.0.668": {
+        "runtime": {
+          "protobuf-net.dll": {
+            "assemblyVersion": "2.0.0.668",
+            "fileVersion": "2.0.0.668"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sever/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "protobuf-net/2.0.0.668": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
